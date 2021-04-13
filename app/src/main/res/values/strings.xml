@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PrimeVideo</string>
+    <string name="serie_name">The Boys</string>
+    <string name="season">Season 2</string>
+    <string name="about">Season 1-2 included with Prime</string>
+    <string name="episode">Episode 1 Watch Now</string>
+    <string name="description">Mussum Ipsum, cacilds vidis litro abertis. Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis. Mé faiz elementum girarzis, nisi eros vermeio. Cevadis im ampola pa arma uma pindureta. Si num tem leite então bota uma pinga aí cumpadi! </string>
 </resources>
